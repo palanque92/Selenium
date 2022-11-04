@@ -19,7 +19,7 @@ public class deneme {
 
         action.click(adForm).perform();
 
-        action.sendKeys("Sakir");
+        action.sendKeys("Omer");
         action.sendKeys(Keys.TAB);
         action.sendKeys("ASD@GMAIL.COM");
         action.sendKeys(Keys.TAB);
